@@ -1,6 +1,6 @@
 # DeckLocked-App
 
-----------------------------------------------INSTRUCTIONS PLEASE READ:---------------------------------------------------------
+---------------------------------INSTRUCTIONS PLEASE READ--------------------------------------
 
 *I am not a programmer and don't know how to code, this was created with stubborness and ai so things will be a bit fidgety.*
 
@@ -16,7 +16,7 @@ Type "cd Desktop" and press enter. (Without the quotation marks)
 Type "cd wow-challenge-app" (This is the folder name, if you changed the name of the folder you will have to type it exactly here)
 Type "npm start" and this should run the app.
 
-------------------------------------------GUIDE FOR USING THE APP:--------------------------------------------
+-------------------------------------GUIDE FOR USING THE APP:-------------------------------------
 
 Firstly click the person icon at the top. Type your profile name in and hit save.
 This will retype your name into the text box as there is a bug which doesnt allow you to type in there once you have saved/loaded/deleted a profile.
@@ -28,7 +28,8 @@ The cog wheel has some manual adjustment buttons in case things go wrong and you
 When you draw cards make sure to click them once they are drawn to ensure they are unlocked.
 
 
------------------------------------------------------KNOWN BUGS ------------------------------------------------
+-----------------------------------------KNOWN BUGS -------------------------------------------
+
 Whenever you save, load or delete a profile you can't type in the Profile name box. To get around this whenever you save a profile it auto types the
 profile name into the box so you can save as many times as you want while progressing.
 
@@ -38,6 +39,7 @@ If in doubt always close the app. Reopen and then load your profile before touch
 with ai and some basic research so if someone wants to make this app into a properly coded one feel free to use the code and send me the improved app and I can post it for people to download and try!
 
 ---------------------Updating-----------------------------------
+
 Feel free to improve / update the app if you know how to programme and use it in your own challenges / recordings. 
 
 Best of luck with the app , hope you enjoy it!
