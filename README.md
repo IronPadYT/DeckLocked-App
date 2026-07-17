@@ -1,4 +1,9 @@
-# DeckLocked-App
+This is the Decklocked App I used for my TBC Anniversary Decklocked series on youtube! 
+
+PLEASE READ THE INSTRUCTIONS FIRST.
+
+📥 Download DeckLocked
+👉 **[Download DeckLocked v1.0.0](https://github.com/IronPadYT/DeckLocked-App/releases)**
 
 ---------------------------------INSTRUCTIONS PLEASE READ--------------------------------------
 
